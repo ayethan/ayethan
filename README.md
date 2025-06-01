@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer.
 ## 🚀 About Me
 
 - 🔭 I'm currently working on Company ERP Projects
-- 👯 **Looking to collaborate on:** Open-source PHP packages or SaaS projects
+- 👯 **Looking to collaborate on:** Open-source PHP packages
 - 💬 Ask me about PHP, Laravel, or fullstack development
 ---
 
