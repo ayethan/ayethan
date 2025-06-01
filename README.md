@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer specializing 
 <img align="right" src="https://via.placeholder.com/300x300/333/FFFFFF?text=Your+Photo" width="300" alt="Profile Photo"> <!-- Replace with your actual image URL -->
 
 - 🔭 I'm currently working on Company ERP Projects
-- 🌱 I'm currently learning [new technology]
 - 👯 **Looking to collaborate on:** Open-source PHP packages or SaaS projects
 - 💬 Ask me about PHP, Laravel, or fullstack development
   
