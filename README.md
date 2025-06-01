@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aye THan Kyaw 
+# 👋 Hi, I'm Aye Than Kyaw 
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer.
 
