@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer specializing 
   - Pronouns: He/Him
   - Fun Facts:
   - Avid rock climber and coffee enthusiast
-  - Maintain a tech blog with 10k monthly readers
   - Former competitive programmer
   - Believe in: "Always leave code better than you found it"
   - 
